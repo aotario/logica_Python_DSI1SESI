@@ -21,8 +21,8 @@ print (impedancia.real)
 # EX4
 # Mostre a parte imaginária do número complexo
 # criado no exercício anterior.
-parte imaginaria = 5 + 8j
-print (parte . imaginaria)
+imaginaria = 13j
+print (imaginaria)
 
 # EX5
 # Declare uma variável chamada "populacao"
@@ -35,6 +35,8 @@ print("A população mundial é de 8 bilhões de pessoas")
 # EX6
 # Verifique se o número 7 é do tipo int
 # usando a função type().
+print(type(7))
+print("7 é um número do tipo int")
 
 # EX7
 # Crie uma variável chamada "aprovado"
@@ -46,11 +48,17 @@ print("Aprovado")
 # EX8
 # Some True e False e mostre o resultado
 # e também o tipo do resultado.
-
+true = 1
+false = 0
+soma = True + False
+print(soma)
 # EX9
 # Pesquise e mostre qual é o valor máximo
 # que um número inteiro pode ter em Python.
+print("Não existe limite de números inteiros em Python")
 
 # EX10
 # Mostre a representação em binário
 # do número 10 usando uma função do Python.
+numero = 10
+print(bin(numero)[2:])
