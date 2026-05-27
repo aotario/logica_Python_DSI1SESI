@@ -3,3 +3,4 @@
 "# Python-Exerc-cios---Opera-es-Aritim-ticas" 
 "# Python-Exerc-cios---Opera-es-Aritim-ticas2" 
 "# Python-Exerc-cios---Type-e-ISINSTANCE-" 
+"# 2.1_manipular-texto-em-python.py" 
