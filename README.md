@@ -2,3 +2,4 @@
 "# -Python-Exerc-cios---Convers-es-de-tipos"  
 "# Python-Exerc-cios---Opera-es-Aritim-ticas" 
 "# Python-Exerc-cios---Opera-es-Aritim-ticas2" 
+"# Python-Exerc-cios---Type-e-ISINSTANCE-" 
